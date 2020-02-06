@@ -3,7 +3,7 @@ name: Question
 about: Describe this issue template's purpose here.
 title: "[QUESTION]"
 labels: question
-assignees: joey-kilgore
+assignees: joshua00214, joey-kilgore
 
 ---
 
