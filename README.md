@@ -1,15 +1,6 @@
 # Using-Eclipse
 Learn how to use the Eclipse IDE
 
-## Initial Startup  
-First things first, we need dark theme.  
-1. After opening eclipse go to the window tab at the top
-2. Click on Preferences  
-3. Click on the General drop down  
-4. Click appearance  
-5. Change Theme to Dark
-6. Click apply and close  
-
 Now we can start programming  
 ## Creating the Hello World Project  
 To create the actual java project simply:  
