@@ -1,0 +1,8 @@
+# Fill In The Blank  
+This tutorial is meant to give insight into the process of writing good code. Some people will think that jumping write in and writing as many lines of code as fast as possible will mean their project will get done faster, and those people are completely wrong. Spending time to think about the code before you write it will give you a strong understanding of your solution before you even start writing a line of code.  
+
+## Comments before Code  
+Yep... you read that correctly, I'm telling you to write the comments before you write the code. By going through the process and commenting essentially [psuedocode](https://en.wikipedia.org/wiki/Pseudocode) of your entire algorithm, then going back and filling in the comments with the code that does what you already planned is easy.  
+Copy the contents of FillInTheBlank.java into a project. Note that all school projects will use the Main.java as your starting class that contains the main method.  
+You will see that the code is clearly incomplete, and won't compile, but the comments can tell you exactly how to finish the project. Imagine this wasn't a small program, but actually an entire project. If you leave comments that describe your entire thought process then it will be exceptionally hard to be confused on what line of code to write next.  
+In the end my advice for writing a big project. Layout the structure of your code with comments, and then fill the code in after you have throught through your algorithm. If you can't explain your algorithm in pseudocode then there is absolutely no way you will be able to explain it in any programming language.
