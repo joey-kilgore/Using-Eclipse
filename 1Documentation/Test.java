@@ -1,4 +1,4 @@
-/*	Test.java
+/*	Main.java
  * 	This file is simply a sample file that gives students an example of what
  * 		code should look like when writing a project for school
  * 		For example, this header comment describes the contents of this File
@@ -11,9 +11,9 @@
  */
 
 /*
- * Test class is the driver class for the test program, and serves no other use
+ * Main class is the driver class for the test program, and serves no other use
  */
-public class Test {
+public class Main {
 	
 	/*
 	 * main simply instantiates multiple variables as an example of documenting
