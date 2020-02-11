@@ -1,5 +1,5 @@
 /*
- * FillInTheBlank.java
+ * Main.java
  * 
  * This class goes through how to write code in a efficient and straight forward
  * manner, and create well documented clean code.
@@ -23,7 +23,7 @@ import java.util.Scanner;
  * Sample program that functions as the driver for this program and 
  * includes the prompting the user for inputs
  */
-public class FillInTheBlank {
+public class Main {
 	
 	/*
 	 * main will instantiate the program and handle all IO with the user
