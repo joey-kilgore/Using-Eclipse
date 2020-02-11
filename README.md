@@ -16,7 +16,7 @@ You should see in the Package Explorer Pane your new project. From here we will 
 1. Right click on your project  
 2. Click New >  
 3. Click Class  
-4. Fill in the "Name:" field. The name of your class will also be the name of the file, for this we can put something like "HelloWorld" as the name.  
+4. Fill in the "Name:" field. The name of your class will also be the name of the file. Note that for your projects to run with the automated script Josh has made, taht you will need to name your file that contains the main method Main  
 5. There should now be a new .java file in your project, it should be in the following structure in your Package Explorer pane  
   Project > src > (default package) > Main.java  
 6. Now we can open that file and put the following code in it  
