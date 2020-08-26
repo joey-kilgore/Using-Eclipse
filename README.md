@@ -9,7 +9,9 @@ To create the actual java project simply:
 3. Click Java Project  
 4. Name your project. Usually this should just relate to the project at hand. (ex. Lab 1, Calculator, etc)  
 5. Check the Location of your project. Make sure you know where your project will be saved!  
-6. Click Finish  
+6. Check that the project is using the correct jre  
+7. Click Finish  
+8. If prompted to 'Create module-info.java' then select 'Don't Create'  
 
 You should see in the Package Explorer Pane your new project. From here we will create a java file, and try and run it!  
 
